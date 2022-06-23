@@ -1,5 +1,5 @@
 <h1>Hey, I'm Edwin </h1>
-<h3>Do you grab a coffee?</h3>
+<h3>Do you want to grab a coffee?</h3>
 Hi, I'm Edwin a Systems Engineer, I like to create things, research, learn and teach what I know, I am currently working as a DevOps and Data Engineer.
 
 <p>I'm working in <strong><a href="https://www.entel.cl/">@entel</a></strong>.</p>
