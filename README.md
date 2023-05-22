@@ -1,8 +1,6 @@
 <h1>Hey, I'm Edwin </h1>
 <h3>Do you want to grab a coffee?</h3>
-Hi, I'm Edwin a Systems Engineer, I like to create things, research, learn and teach what I know, I am currently working as a DevOps and Data Engineer.
-
-<p>I'm working in <strong><a href="https://www.entel.cl/">@entel</a></strong>.</p>
+Hi, I'm Edwin a Systems Engineer, I like to create things, research, learn and teach what I know, I am currently working as a DevOps and Data Engineer in <strong><a href="https://www.entel.cl/">@entel</a></strong>.
 <p>
     <a href="https://www.linkedin.com/in/ecaminero/">
         <img src="https://img.shields.io/badge/-@ecaminero-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&link=https://www.linkedin.com/in/ecaminero/"
